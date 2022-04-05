@@ -1,16 +1,6 @@
 # dapa
 > Simple audio recording for Discord
 
-<div align="center">
-  <a href="https://discordbots.org/bot/338897906524225538">
-    <img src="https://discordbots.org/api/widget/338897906524225538.png" alt="Discord Bots" />
-  </a>
-
-  [![Discord Server Count](https://discordapp.com/api/guilds/408795211901173762/widget.png "Badge displaying number of members in Discord server")](https://discord.gg/gkvsNw8)
-  [![Build Status](https://gitlab.com/pawabot/pawa/badges/master/pipeline.svg "Badge displaying build status")](https://gitlab.com/pawabot/pawa/commits/master)
-
-</div>
-
 ## What is `pawa`?
 
 `pawa` is a simple audio recording bot for Discord. With **two** simple commands you can generate a single MP3 file!
