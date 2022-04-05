@@ -3,18 +3,18 @@
 
 ## What is `Devico`?
 
-`Devico` is a simple message collection bot for Discord. With **three** simple commands you can generate a single MP3 file!
+`Devico` is a simple message collection bot for Discord. With **two** simple commands you can save message on csv or json!
 
 See [Quickstart](quickstart.md) guide for more details.
 
 ## Features
 
-* Single track recordings
-* Universal output format -- MP3
-* Straightforward [commands](commands.md)
-* Uploads to Discord where you can keep recording _FOREVER_
-* Shareable recording URL
-* [Premium](commands.md) Advanced Commands
+* Get Normal Message
+* Get Deleted Message, Image, Document, Video and Audio
+* Get Edited Message
+* Get All Document
+* Get All Image
+* [Another Features](commands.md) Coming Soon !
 
 <!-- TODO: use the buttons instead of this, but the iframe is a PITA QQ -->
 
