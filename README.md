@@ -1,4 +1,4 @@
-# pawa
+# dapa
 > Simple audio recording for Discord
 
 <div align="center">
