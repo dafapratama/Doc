@@ -1,9 +1,9 @@
-# dapa
-> Simple audio recording for Discord
+# Devico
+> Simple Discord evidence collection bot
 
-## What is `pawa`?
+## What is `Devico`?
 
-`pawa` is a simple audio recording bot for Discord. With **two** simple commands you can generate a single MP3 file!
+`Devico` is a simple message collection bot for Discord. With **three** simple commands you can generate a single MP3 file!
 
 See [Quickstart](quickstart.md) guide for more details.
 
@@ -16,48 +16,17 @@ See [Quickstart](quickstart.md) guide for more details.
 * Shareable recording URL
 * [Premium](commands.md) Advanced Commands
 
-# Donate
-If you enjoy using `pawa` please consider donating 🤗
-
-<div align="center">
-
-[![GitHub Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub)](https://github.com/sponsors/jvtrigueros)  
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L215SZC)  
-`bitcoin:3AEqrkqahcjrcaGiG2PoJMJL4PKva5J3L7`
-
-</div>
-
 <!-- TODO: use the buttons instead of this, but the iframe is a PITA QQ -->
 
-# Spread the word!
-
-* 🐤 Follow the [Twitter account](https://twitter.com/pawa_bot) or tweet using hashtag [#pawabot](https://twitter.com/search?q=%23pawabot)
-* 🗳️ Vote on [top.gg](https://top.gg/bot/pawa/vote)
-* ⭐ Leave a review on [bots.ondiscord.xyz](https://bots.ondiscord.xyz/bots/338897906524225538)
-* 🔄 Share with others!
-
-# Affiliates
-
-If you want to try hosting your own bot, or website. I've used these hosting platforms in the past, use my referral links:
-
-* **Limited Time** [Vultr](https://www.vultr.com/?ref=8917010-6G): $100 credit to spend over 30 days
-* [DigitalOcean](https://m.do.co/c/d2af1fbee897): $100 credit
-* [Linode](https://www.linode.com/?r=e655d87b0d382f2922e75de841b2f19d7403e2ca)
-* We collect anonymous basic analytics using [Simple Analytics](https://referral.simpleanalytics.com/pawa)
-
-# Self-hosting
-
-Self-hosting instructions got a lot more complex, see the [self-hosting](self-hosting.md) section for more on how
-you can deploy the bot.
 
 # Attributions <!-- {docsify-ignore} -->
 
-- Original Java codebase by [ajm1996's](https://github.com/ajm1996) [DiscordEcho](https://github.com/ajm1996/DiscordEcho).
+- Original Discord Python by [Rapptz](https://github.com/Rapptz).
 
 # License
 
 ```
-Copyright (c) 2017-2021 Guacamole Dragon, LLC
+Copyright (c) 2021-2022 dafapratama
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
