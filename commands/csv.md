@@ -1,16 +1,16 @@
-# lang
-> Specifies the language to use.
+# csv
+> This command can be used to saving json format of all data in text channel.
 
 ## Syntax
 ```
-!lang [lang]
+csv
 ```
 
 <details>
   <summary>Example</summary>
 
   ```
-  !lang pt_br
+  just type "csv"
   ```
 </details>
 

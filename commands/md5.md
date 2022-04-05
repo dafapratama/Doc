@@ -1,14 +1,16 @@
-# prefix
-> Change prefix _(Default is '!')_
+# md5
+> This command can be used to change text to md5
 
 ```
-!prefix <new-prefix>
+md5 
 ```
 <details>
   <summary>Example</summary>
 
   ```
-  !prefix $
+  type kucing
+
+  type md5
   ```
 </details>
 

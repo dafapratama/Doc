@@ -1,15 +1,15 @@
-## 👯‍♀️ alias
-> Creates an alias for a command
+## json
+> json format 
 
-This command can be used to customize your [`pawa`](https://pawa.im) experience.  
+This command can be used to saving json format of all data in text channel.  
 
 ```
-!alias <command> <custom alias>
+just type "save"
 ```
 <details>
   <summary>Example</summary>
 
   ```
-  !alias record r
+  save
   ```
 </details>
