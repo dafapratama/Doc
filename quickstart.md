@@ -3,7 +3,7 @@
 Before you get started, you must invite `Devico` to your own Discord server.
 
 <div style="text-align: center;">
-  <a class="button" style="font-size: 2.05rem;" href="hhttps://discord.com/api/oauth2/authorize?client_id=936165836010426369&permissions=8&scope=bot">Devico Invite </a>
+  <a class="button" style="font-size: 2.05rem;" href="https://discord.com/api/oauth2/authorize?client_id=936165836010426369&permissions=8&scope=bot">Devico Invite </a>
 </div>
 
 ?> You must be a server Administrator to do this.
