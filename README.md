@@ -21,7 +21,7 @@ See [Quickstart](quickstart.md) guide for more details.
 
 # Attributions <!-- {docsify-ignore} -->
 
-- Original Java codebase by [Rapptz](https://github.com/Rapptz/discord.py)
+- Original Python codebase by [Rapptz](https://github.com/Rapptz/discord.py)
 
 # License
 

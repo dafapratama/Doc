@@ -1,6 +1,7 @@
 - Getting started
   - [Quickstart](quickstart.md)
   - [Commands](commands.md)
+  - [How To Use](configuration.md)
 
 - Attributions
   - [Sponsors](sponsors.md)
