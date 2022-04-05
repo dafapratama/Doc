@@ -16,7 +16,7 @@ See [Quickstart](quickstart.md) guide for more details.
 * Universal output format -- JSON And CSV
 * Uploads to Discord with embed_messages
 * URL Generate For Image, Document
-* [commands](commands.md) Advance Commands is Coming Soon.
+* Advance Commands [commands](commands.md).
 
 
 # Attributions <!-- {docsify-ignore} -->

@@ -8,23 +8,28 @@ Before you get started, you must invite `Devico` to your own Discord server.
 
 ?> You must be a server Administrator to do this.
 
-## Get Normal Messages
+## Get Normal Messages, Image, Document, Audio and Video
 
-With _two_ simple steps, you can record your own audio:
+If Bot already join, it automatically save your normal Messages,
+Image, Document, Audio and Video
 
-1. Join a voice channel, then type `!record`
-1. Create and upload recording, type `!save`
+1. Just Type A Normal Messages
+1. Bot will return a embed_messages on private channel as you set
 
-!> If you `!stop` before `!save`, the recording will be **DELETED**!
+## Get Edited Messages
 
-## Save Recording
+If Bot already join, it automatically save your edited Messages
 
-The recording will either:
+1. Just Edit Your Messages
+1. Bot will return a embed_messages on private channel as you set
 
-* Be uploaded directly to Discord where you can keep it _forever_
-* Or, you'll be given a link where you can download your recording within **24 hours**
+## Get Deleted Messages, Image, Document, Audio and Video
 
-!> If you forget to download the recording before then, there's nothing I can do to restore the recording. It is gone.
+If Bot already join, it automatically save your Deleted Messages,
+Image, Document, Audio and Video
+
+1. Just Type A Deleted Messages, Image, Document, Audio and Video
+1. Bot will return a embed_messages on private channel as you set
 
 ## Demonstration
 

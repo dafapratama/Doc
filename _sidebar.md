@@ -1,15 +1,10 @@
 - Getting started
   - [Quickstart](quickstart.md)
   - [Commands](commands.md)
-  - [Translations](translations.md)
 
-- Self Hosting
-  - [DIY](self-hosting.md)
-  - [Pawa Lite](pawalite.md)
-  - [Configuration](configuration.md)
 - Attributions
   - [Sponsors](sponsors.md)
-- [Changelog](changelog.md)
+
 ---
 - Alternatives
   - [vs. Craig](craig.md)
