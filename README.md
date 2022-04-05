@@ -15,18 +15,18 @@ See [Quickstart](quickstart.md) guide for more details.
 * Get ALL Images, Video and Audio
 * Universal output format -- JSON And CSV
 * Uploads to Discord with embed_messages
-* URL Generate For 
+* URL Generate For Image, Document
 * [commands](commands.md) Advanced Commands
 
 
 # Attributions <!-- {docsify-ignore} -->
 
-- Original Java codebase by [ajm1996's](https://github.com/ajm1996) [DiscordEcho](https://github.com/ajm1996/DiscordEcho).
+- Original Java codebase by [Rapptz](https://github.com/Rapptz/discord.py)
 
 # License
 
 ```
-Copyright (c) 2017-2021 Guacamole Dragon, LLC
+Copyright (c) 2017-2021 dafapratama
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
