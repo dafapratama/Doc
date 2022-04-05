@@ -1,14 +1,14 @@
 # Quickstart
 
-Before you get started, you must invite `pawa` to your own Discord server.
+Before you get started, you must invite `Devico` to your own Discord server.
 
 <div style="text-align: center;">
-  <a class="button" style="font-size: 2.05rem;" href="https://discordapp.com/oauth2/authorize?client_id=338897906524225538&scope=bot&permissions=101731328">Invite!</a>
+  <a class="button" style="font-size: 2.05rem;" href="hhttps://discord.com/api/oauth2/authorize?client_id=936165836010426369&permissions=8&scope=bot">Devico Invite </a>
 </div>
 
 ?> You must be a server Administrator to do this.
 
-## Create Recording
+## Get Normal Messages
 
 With _two_ simple steps, you can record your own audio:
 
