@@ -8,12 +8,19 @@ Before you get started, you must invite `Devico` to your own Discord server.
 
 ?> You must be a server Administrator to do this.
 
+## Get Channel Informatioon
+
+Bot will save your channel information
+
+1. Just Type a Advance Command like csv or save
+1. Bot will return a CSV or JSON on your local computer
+
 ## Get Normal Messages, Image, Document, Audio and Video
 
 If Bot already join, it automatically save your normal Messages,
 Image, Document, Audio and Video
 
-1. Just Type A Normal Messages
+1. Just Type a Normal Messages
 1. Bot will return a embed_messages on private channel as you set
 
 ## Get Edited Messages
@@ -35,8 +42,8 @@ Image, Document, Audio and Video
 
 <div align="center">
   <video loop muted controls>
-    <source src="_media/pawa-howto.webm" type="video/webm">
-    <source src="_media/pawa-howto.mp4" type="video/mp4">
+    <source src="" type="video/webm">
+    <source src="" type="video/mp4">
   </video>
 </div>
 
