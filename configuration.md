@@ -34,4 +34,9 @@ have [install Python 3.6+](https://www.python.org/downloads/).
     - Save and start running 
   - Linux/macOS Users:
     - same like Windows User
+ 
+## Hosting 
+These instructions for those who want make this bot 24/7, for this you'll need to have 
+- Download the [latest release](https://github.com/dafapratama/discord) of the bot and upload it to your hosting or server,
+  and running on your hosting / server.
 
