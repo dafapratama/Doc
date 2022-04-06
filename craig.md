@@ -1,4 +1,4 @@
-# vs Craig
+# vs Another bot
 
 ?> TODO
 
