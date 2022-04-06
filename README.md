@@ -10,14 +10,13 @@
 
 ## Features
 
-* Get ALL Normal Message
+* Get ALL Normal Message, Images, Video and Audio
 * Get ALL Edited Message
 * Get ALL Deleted Message, Image, Document, Video and Audio
-* Get ALL Images, Video and Audio
 * Get Channel Information
 * Universal output format -- JSON And CSV
 * Uploads to Discord with embed_messages
-* URL Generate For Image, Document
+* URL Generate For Image, Document, Video and Audio
 * Advance Commands [commands](commands.md).
 
 
