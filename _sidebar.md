@@ -8,5 +8,5 @@
 
 ---
 - Alternatives
-  - [vs. Craig](craig.md)
-  - [vs. MEE6](mee6.md)
+  - [vs. Manual](manual.md)
+  - [vs. Another Bot](another.md)
