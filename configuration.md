@@ -1,8 +1,20 @@
 # Environment Variables Devico
 
+The main motivation for creating this project was to allow Discord Guild owners to host their own servers 
+and makes it easy to collect discord digital evidence . In order to be able to do that, 
+there are prerequisites that must be followed.
+
+# Pre-Requisites
+
+- Create a [Discord Application](https://discord.com/developers/applications).
+- Create New application
+- Create a [Bot](https://discord.com/developers/applications/961105613172117515/bot)
+
+  - You'll need to have  the **App Bot Token** to configure the bot. if you already made it just ignore it.
+
 ## Bot variables, **_required_**
 
-- `DISCORD_TOKEN=your bot token
+- `DISCORD_TOKEN=your bot token / app bot token
 - `DISCORD_GUILD = name of your guild / server
 - `log_channel = discord.utils.get(guild.channels, name="ur private channel to log") -> edit all this variable channel log name
 - `messages = await message.channel.history(limit=number to max save).flatten()
