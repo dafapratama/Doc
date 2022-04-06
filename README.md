@@ -22,7 +22,7 @@
 
 # Attributions <!-- {docsify-ignore} -->
 
-- Original Python codebase by [Rapptz](https://github.com/Rapptz/discord.py)
+- Original Python Discord API by [Rapptz](https://github.com/Rapptz/discord.py)
 
 # License
 
