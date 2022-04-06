@@ -5,7 +5,7 @@
 
 `Devico` is a simple digital evidence collection for Discord. With **two** simple commands you can save json and csv file!
 
-See [Quickstart](quickstart.md) for feature guide.
+* See [Quickstart](quickstart.md) for feature guide.
 * See [Configuration](configuration.md) for how to use `Devico`
 
 ## Features
