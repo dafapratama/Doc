@@ -8,5 +8,5 @@
 
 ---
 - Alternatives
-  - [vs. Manual](manual.md)
+  - [vs. Dyno Bot](dyno.md)
   - [vs. Another Bot](another.md)
