@@ -4,8 +4,7 @@
 
 - `DISCORD_TOKEN=your bot token
 - `DISCORD_GUILD = name of your guild / server
-- `log_channel = discord.utils.get(guild.channels, name="ur private channel to log")
-- `log_channel = discord.utils.get(guild.channels, name="ur private chanel to log")
+- `log_channel = discord.utils.get(guild.channels, name="ur private channel to log") -> edit all this variable channel log name
 - `messages = await message.channel.history(limit=number to max save).flatten()
 
 ## Local
@@ -19,6 +18,7 @@ have [install Python 3.6+](https://www.python.org/downloads/).
 - Configure Bot
   - Windows Users:
     - Edit the program and enter the appropriate values for all the variables described above [Configuration](configuration.md).
+    - Add bot on your private text channel
     - Save and start running 
   - Linux/macOS Users:
     - same like Windows User
