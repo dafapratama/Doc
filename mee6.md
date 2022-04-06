@@ -1,7 +1,7 @@
-# vs. Scraping Acquisition
+# vs. Dyno bot
 
-## What is Scraping
-[Scraping](https://facebook.com) is a .
+## What is Dyno Bot
+[Dyno Bot](https://facebook.com) is a .
 
 
 ## Feature Comparison
