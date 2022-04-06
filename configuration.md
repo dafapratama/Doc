@@ -4,6 +4,7 @@
 
 - `DISCORD_TOKEN=your bot token
 - `DISCORD_GUILD = name of your guild / server
+- `log_channel = discord.utils.get(guild.channels, name="ur private channel to log")
 - `log_channel = discord.utils.get(guild.channels, name="ur private chanel to log")
 - `messages = await message.channel.history(limit=number to max save).flatten()
 
