@@ -14,7 +14,7 @@ there are prerequisites that must be followed.
 
 ## Bot variables, **_required_**
 
-- `DISCORD_TOKEN=your bot token / app bot token
+- `DISCORD_TOKEN= your bot token / app bot token [optional if u want to change to ur personal bot]
 - `DISCORD_GUILD = name of your guild / server
 - `log_channel = discord.utils.get(guild.channels, name="ur private channel to log") -> edit all this variable channel log name
 - `messages = await message.channel.history(limit=number to max save).flatten()
