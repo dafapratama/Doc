@@ -13,6 +13,7 @@ See [Quickstart](quickstart.md) guide for more details.
 * Get ALL Edited Message
 * Get ALL Deleted Message, Image, Document, Video and Audio
 * Get ALL Images, Video and Audio
+* Get Channel Information
 * Universal output format -- JSON And CSV
 * Uploads to Discord with embed_messages
 * URL Generate For Image, Document
