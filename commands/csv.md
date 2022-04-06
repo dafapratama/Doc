@@ -1,5 +1,5 @@
 # csv
-> This command can be used to saving json format of all data in text channel.
+> This command can be used to saving csv format of all data in text channel.
 
 ## Syntax
 ```
